@@ -5,7 +5,7 @@ using Microsoft.IdentityModel.Tokens;
 using Microsoft.ServiceFabric.Services.Runtime;
 using UserService.Data;
 using UserService.Helpers;
-
+using UserService;
 internal static class Program
 {
     private static void Main()
